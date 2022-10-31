@@ -5,8 +5,8 @@
 #include<iomanip>
 #include<map>
 #include<exception>
-																																																																																																													int nakop = 1;
 
+int nakop = 1;
 
 double null(double number) {
 	if (number == -0) {
